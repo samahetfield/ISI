@@ -1,0 +1,68 @@
+#detalles{
+    display: inline-block;
+    position: absolute;
+    left: 40%;
+    top: 30%;
+}
+
+#imag{
+    display: inline-block;
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 10%;
+    top: 20%;
+}
+
+#amazon{
+    position: absolute;
+    display: inline-block;
+    width: 20%;
+    height: 20%;
+    left: 15%;
+    top: 70%;
+}
+
+#thomann{
+    position: absolute;
+    display: inline-block;
+    width: 20%;
+    height: 20%;
+    left: 38%;
+    top: 70%;
+}
+
+#guima{
+    position: absolute;
+    display: inline-block;
+    width: 20%;
+    height: 20%;
+    left: 60%;
+    top: 70%;
+}
+
+#prec_a{
+    display: inline-block;
+    position: absolute;
+    left: 20%;
+    top: 60%;
+}
+
+#prec_t{
+    display: inline-block;
+    position: absolute;
+    left: 40%;
+    top: 60%;
+}
+
+#prec_g{
+    display: inline-block;
+    position: absolute;
+    left: 60%;
+    top: 60%;
+}
+
+
+h1,h2,h3{
+    display: inline-block;
+}

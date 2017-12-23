@@ -1,0 +1,39 @@
+#amazon{
+    position: absolute;
+    display: inline-block;
+    width: 20%;
+    height: 20%;
+    left: 15%;
+    top: 40%;
+}
+
+#thomann{
+    position: absolute;
+    display: inline-block;
+    width: 20%;
+    height: 20%;
+    left: 60%;
+    top: 40%;
+}
+
+#guima{
+    position: absolute;
+    display: inline-block;
+    width: 20%;
+    height: 20%;
+    left: 35%;
+    top: 40%;
+}
+
+#title{
+	position: absolute;
+	display: inline-block;
+	left: 25%; 
+}
+
+#buscador{
+	position: absolute;
+	display: inline-block;
+	top:15%;
+	left: 30%;
+}
